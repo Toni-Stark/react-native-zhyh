@@ -1,0 +1,7 @@
+学悦v2.0签名
+================
+keytool -genkeypair -v -keystore xueyue-release-key.keystore -alias xueyue-key -keyalg RSA -keysize 2048 -validity 10000
+================
+Key Password: zhyh@2020
+================
+Information: CN=ZHYH, OU=ZHYH, O=ZHYH, L=CQ, ST=CQ, C=86
